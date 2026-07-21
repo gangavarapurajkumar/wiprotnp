@@ -326,7 +326,7 @@ This project is licensed under the **MIT License**.
 
 # 👨‍💻 Author
 
-**Avinash Kaja**
+**G.Rajkumar**
 
 - B.Tech – Artificial Intelligence & Data Science
 - Java | Python | FastAPI | React | AI | Machine Learning
